@@ -1,5 +1,5 @@
 # Chatbot
-Running on public URL: https://ba15468e047b6de8bb.gradio.live
+Running on public URL: https://ba15468e047b6de8bb.gradio.live(expires in 1 week)
 # Loan Approval RAG Chatbot
 
 ## Overview
